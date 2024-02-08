@@ -1,0 +1,182 @@
+[
+	{
+		"name": "iPhone 12",
+		"price": 1099.99,
+		"feature": true,
+		"company": "Apple"
+	},
+	{
+		"name": "Redmi Note 10",
+		"price": 299.99,
+		"feature": false,
+		"company": "Mi"
+	},
+	{
+		"name": "Samsung Galaxy S21",
+		"price": 1199.99,
+		"feature": true,
+		"company": "Samsung"
+	},
+	{
+		"name": "Dell XPS 13",
+		"price": 1299.99,
+		"feature": false,
+		"company": "Dell"
+	},
+	{
+		"name": "Lenovo ThinkPad X1 Carbon",
+		"price": 1499.99,
+		"feature": true,
+		"company": "Lenovo"
+	},
+	{
+		"name": "HP Spectre x360",
+		"price": 1399.99,
+		"feature": false,
+		"company": "HP"
+	},
+	{
+		"name": "MacBook Pro",
+		"price": 1799.99,
+		"feature": true,
+		"company": "Apple"
+	},
+	{
+		"name": "Xiaomi Mi 11",
+		"price": 699.99,
+		"feature": false,
+		"company": "Mi"
+	},
+	{
+		"name": "Samsung QLED 4K TV",
+		"price": 1499.99,
+		"feature": true,
+		"company": "Samsung"
+	},
+	{
+		"name": "Dell Inspiron 15",
+		"price": 799.99,
+		"feature": false,
+		"company": "Dell"
+	},
+	{
+		"name": "ThinkPad Yoga",
+		"price": 1299.99,
+		"feature": true,
+		"company": "Lenovo"
+	},
+	{
+		"name": "HP Envy Laptop",
+		"price": 1099.99,
+		"feature": false,
+		"company": "HP"
+	},
+	{
+		"name": "iPhone 13 Pro",
+		"price": 1299.99,
+		"feature": true,
+		"company": "Apple"
+	},
+	{
+		"name": "Xiaomi RedmiBook 15",
+		"price": 899.99,
+		"feature": false,
+		"company": "Mi"
+	},
+	{
+		"name": "Samsung Galaxy Tab S7",
+		"price": 649.99,
+		"feature": true,
+		"company": "Samsung"
+	},
+	{
+		"name": "Dell Alienware Aurora",
+		"price": 1999.99,
+		"feature": false,
+		"company": "Dell"
+	},
+	{
+		"name": "Lenovo Legion 5",
+		"price": 1299.99,
+		"feature": true,
+		"company": "Lenovo"
+	},
+	{
+		"name": "HP Pavilion x360",
+		"price": 849.99,
+		"feature": false,
+		"company": "HP"
+	},
+	{
+		"name": "MacBook Air",
+		"price": 1299.99,
+		"feature": true,
+		"company": "Apple"
+	  },
+	  {
+		"name": "Xiaomi Mi Band 6",
+		"price": 49.99,
+		"feature": false,
+		"company": "Mi"
+	  },
+	  {
+		"name": "Samsung Odyssey G9 Monitor",
+		"price": 1499.99,
+		"feature": true,
+		"company": "Samsung"
+	  },
+	  {
+		"name": "Dell XPS 15",
+		"price": 1499.99,
+		"feature": false,
+		"company": "Dell"
+	  },
+	  {
+		"name": "Lenovo Yoga C940",
+		"price": 1199.99,
+		"feature": true,
+		"company": "Lenovo"
+	  },
+	  {
+		"name": "HP Omen Gaming Laptop",
+		"price": 1699.99,
+		"feature": false,
+		"company": "HP"
+	  },
+	  {
+		"name": "iPad Pro",
+		"price": 1099.99,
+		"feature": true,
+		"company": "Apple"
+	  },
+	  {
+		"name": "Xiaomi Mi AirDots Pro 2",
+		"price": 69.99,
+		"feature": false,
+		"company": "Mi"
+	  },
+	  {
+		"name": "Samsung Galaxy Watch 4",
+		"price": 299.99,
+		"feature": true,
+		"company": "Samsung"
+	  },
+	  {
+		"name": "Dell Precision 5550",
+		"price": 2299.99,
+		"feature": false,
+		"company": "Dell"
+	  },
+	  {
+		"name": "Lenovo IdeaPad 5",
+		"price": 699.99,
+		"feature": true,
+		"company": "Lenovo"
+	  },
+	  {
+		"name": "HP Elite Dragonfly Laptop",
+		"price": 1899.99,
+		"feature": false,
+		"company": "HP"
+	  }
+]
